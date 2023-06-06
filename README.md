@@ -7,7 +7,7 @@ you need to download Tkinter libraries.
 To download Tkinter Inter library, run the following code in the terminal or command promp : 
 
 Windows and mac
-
+ 
 code : pip install tkinter
 
 for Linux :
